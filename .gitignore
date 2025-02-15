@@ -1,3 +1,5 @@
-*
-!.config
-!.gitignore
+wireshark/
+Battle.net/
+configstore/
+iterm2/
+tmux/plugins/
