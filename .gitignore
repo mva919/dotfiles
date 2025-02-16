@@ -1,5 +1,8 @@
-wireshark/
-Battle.net/
-configstore/
-iterm2/
+*
+!tmux
+!alacritty
+!nvim
+!.gitignore
+
 tmux/plugins/
+
