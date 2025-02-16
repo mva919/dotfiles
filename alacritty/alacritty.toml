@@ -5,7 +5,7 @@ import = [ "~/.config/alacritty/themes/themes/gruvbox_dark.toml" ]
 decorations = "None"
 padding = { x = 10, y = 10 }
 dynamic_padding = true
-startup_mode = "SimpleFullScreen"
+startup_mode = "FullScreen"
 
 [font]
 size = 14
